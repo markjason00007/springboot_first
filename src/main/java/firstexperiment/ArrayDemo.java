@@ -12,7 +12,8 @@ public class ArrayDemo {
 			arr[i] =i;
 		}
 		
-		System.out.println(" arr.lenth "+ arr.length);
+		System.out.println(" arr.lenth "+ arr.length); 
+		// added the new comments here . 
 		
 	}
 
